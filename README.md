@@ -20,6 +20,10 @@
 > https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 
+## Change Session
+
+[`Click Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/session.json#L1)
+
 ## Change Dyno
 
 Off in web nya
