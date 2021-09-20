@@ -14,23 +14,23 @@
 
 -------
 
-## Add Buildpack
+## `ADD BUILDPACK`
 
 ```
 > https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 
-## Change Session
+## `CHANGE SESSION`
 
 [`Click Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/session.json#L1)
 
-## Setting
+## `SETTING`
 
 - Owner number [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L4)
 - Owner name [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L13)
 - Botname [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L14)
 
-## Change Dyno
+## `CHANGE DYNO`
 
 Off in web nya
 
@@ -40,7 +40,7 @@ Off in web nya
   <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
 </p>
 
-## ```How to Deploy```
+## ```HOW TO DEPLOY```
 
 [`Click Here For Tutorial`](https://youtu.be/_CP2_1Yqauo)<br>
 
@@ -51,7 +51,7 @@ Off in web nya
 </p>
 
 
-## ```Coffee```
+## ```COFFEE```
 
 - [`SAWERIA`](https://saweria.co/zeeoneofc)
 
