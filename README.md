@@ -17,9 +17,18 @@
 ## Add Buildpack
 
 ```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-
+> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
+
+## Change Dyno
+
+Off in web nya
+
+----------
+
+<p align="center">
+  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
+</p>
 
 ## ```How to Deploy```
 
