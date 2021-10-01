@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+.npm
+
+# lock-files
+package-lock.json
+
+# sessions file
+session.json
