@@ -1,0 +1,21 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": true,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": false,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "62887435047326",
+	"ownerNumberr": "62887435047326",
+	"cr": "@ZeeoneOfcོ",
+	"ownername": "ZeeoneOfcོ",
+	"botname":"ALPHABOT",
+	"thumb":"thumbnail_1.jpg",
+	"thumbnail":"thumbnail_2.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"fake": " 「  ALPHABOT  」\nCreated By @ZeeoneOfcོ"
+}
