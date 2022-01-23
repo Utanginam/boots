@@ -44,7 +44,7 @@ Off in web nya
 
 ## ```HOW TO DEPLOY```
 
-[`Click Here For Tutorial`](https://youtu.be/5HgB__wARjM)<br>
+[`Click Here For Tutorial`](https://youtu.be/kxjMsMST4Rw)<br>
 
 ----------
 
