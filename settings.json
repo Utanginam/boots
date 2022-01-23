@@ -4,7 +4,7 @@
 	"antihidetag": true,
 	"user_register": false,
 	"anti_delete" : false,
-	"anticall": false,
+	"anticall": true,
 	"auto_welcome_msg": true,
 	"auto_leave_msg": true,
 	"prefix": ".",
@@ -15,7 +15,7 @@
 	"ownername": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
 	"botname":"Alphabot",
 	"thumb":"thumbnail_1.jpg",
-	"thumbnail":"thumbnail_2.jpg",
+	"thumbnail":"thumbnail_2_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
 	"donasi":"donasi.jpg",
 	"fake": " 「  ALPHABOT  」\nCreated By ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
