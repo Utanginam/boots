@@ -3656,7 +3656,8 @@ if (isLimit(sender, isPremium, isCreator, isOwner, limitawal, limit)) return sen
             for (let i of result) {
             res += `*Nama*: *${i.nama}\n*Link*: ${i.link}\n\n`
             }
-            reply(res)
+            reply('Cek pc')
+            alpha.sendMessage(sender, res , text, {quoted: mek})
             });
             await limitAdd(sender, limit)
 			break    
