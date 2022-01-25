@@ -1,5 +1,5 @@
 const fs = require('fs')
-const chalk = require('chalk')
+const chalk = import('chalk')
 const setting = JSON.parse(fs.readFileSync('./settings.json'))
 
 // Website Api
